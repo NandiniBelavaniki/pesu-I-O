@@ -1,0 +1,11 @@
+Most commonly used libraries are NUMPY and PANDA
+MATPLOTLIB -> visualization tool of python
+SGQ -> Scenario Gap Quest 
+Current scenario -> stake holders, roles and responsibilities
+Gap              -> contains questions between current scenario and future 
+future           -> help, action(models) and outcomes 
+MAE(Mean Average Error)  tells us how big of an error we can expect from the forecast on an average2. The error values are in the original units of forecasted values and MAE = 0 indicates that there is no error in the forecasted values.
+MAPE(Mean Average Percentage Error)  is a metric that defines the accuracy of a forecasting method. It represents the average of the absolute percentage errors of each entry in a dataset to calculate how accurate the forecasted quantities were in comparison with the actual quantities.
+Overfitting means that your model makes not accurate predictions.
+Underfitting means that your model makes accurate, but initially incorrect predictions.
+Overfitting and Underfitting have only unique characters.
